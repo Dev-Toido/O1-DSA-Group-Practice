@@ -14,11 +14,12 @@ Welcome to **The O(1) Club**! This repository serves as our centralized hub for 
 
 ## 🗺️ Our Learning Roadmap
 
-We are breaking down our preparation into 4 distinct phases, balancing data structure implementation with algorithmic problem-solving.
+We are breaking down our preparation into 5 distinct phases, balancing data structure implementation with algorithmic problem-solving.
 
 |    Phase    |                               Topics                            |     Status     |
 |    :---     |                                :---                             |      :---      |
-| **Phase 1** | Language Basics, Time Complexity, Arrays & Binary Search        | 🟡 In Progress |
+| **Phase 0** | Language Basics, Warm-up problems                               | 🟡 In Progress |
+| **Phase 1** | Time Complexity, Arrays & Binary Search                         | 🔴 To Do       |
 | **Phase 2** | Strings, Recursion, Backtracking, Linked Lists, Stacks & Queues | 🔴 To Do       |
 | **Phase 3** | Trees, Binary Search Trees, Heaps, Hashing (Maps/Sets)          | 🔴 To Do       |
 | **Phase 4** | Graphs & Dynamic Programming (DP)                               | 🔴 To Do       |
